@@ -1,0 +1,76 @@
+section{margin-bottom: 120px;}
+
+/* new year styles */
+
+.section-sub-titel{font-size:32px ;
+                color: #FFFFFF;
+            text-align: center;}
+
+.section-titel{
+             background-image:url("/images/Banner\ Image.png");
+            background-repeat: no-repeat;
+            max-width: 1320px;
+            background-size: cover;
+            margin: 0 auto;
+            height: 600px;
+        color: white;
+        text-align: center;
+        align-content: center;
+        border-radius: 16px;
+        
+        
+        font-size: 72px;
+        font-weight: bold;
+        margin-top: 20px;
+        }
+
+        /* discount aria styles */
+
+        .discount-contania{max-width: 802.9px;
+                        height: 806px;
+                    }
+
+         .discount-title{
+                text-align: center;
+                
+            }
+            
+        .discount{font-weight: bold;
+        font-size: 88px;
+        color: #FF0000;}
+
+        .discount-sub-titel{color: #FF0000;
+                    font-size:24px ;
+                font-weight:400;}
+
+        /* 3 in all most same */
+
+        .all-most-same{color: #070211;
+                        font-size: 48px;
+                    font-weight: bold;
+                }
+
+    /* 2024 party section stlye */
+
+    .party-continar{max-width: 1320px;
+                height: 600px;     
+                background-image: url(/images/Vectorrr.png);}
+
+    /* .party-haf{display: flex;} */
+
+
+    .party-section{margin: 111px 550px 313px     128px ;
+        padding-top: 111px;}
+
+        .party-title{font-size: 64px;
+                    font-weight: black;
+                color: #FFFFFF;}
+
+        .party-description{font-size: 18px;
+            color: #FFFFFF;
+        }    
+
+        .only-a{font-size:20px ;
+        font-weight: bold;
+    color: #FFFFFF;
+        text-decoration: none;}
