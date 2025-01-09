@@ -1,6 +1,6 @@
 
  body section{margin-bottom: 120px;
-    margin-top: 120px}
+    }
 
 /* new year styles */
 
@@ -166,4 +166,64 @@
          background-position: bottom;
         display: flex;
         gap: 32px;
-            }
+           border-radius: 16px; }
+
+    /* our awesome portfolio */
+
+    .card-items{max-width: 1320px;
+            height: 1163px;
+        margin: 0 auto;
+        margin-top: 120px;
+    }
+
+    .gfit-cards{display: flex;
+            gap:24px ;
+            margin-top: 24px;}
+
+
+            /* subscriber-section style */
+
+            .subscriber-section{max-width: 1320px;
+                            height: 616px;
+                        margin: 0 auto;
+                       margin-top: 120px;
+                      align-content: center;
+                    text-align: center;
+                background-color: #e19797c9;
+                border-radius: 16px;
+                 }
+                  
+
+        .input-message{width: 648px;
+                        height: 65px;
+                    border: none;
+                    border-radius: 8px;
+                    padding-left: 20px;}
+
+
+            /* footer-section style */
+
+            .footer-section{max-width: 1600px;
+                            height: 609px;
+                        margin: 0 auto;
+                    margin-top: 120px;
+                  background-color: #070211;
+                  color: #FFFFFF;
+                  text-align: center;
+                  align-content: center;
+
+                }
+
+                .footer-titel{max-width: 1185px;
+                            height: 80px;
+                        margin: 0 auto;
+                    justify-content: space-between;
+                display: flex;
+                margin-bottom: 100px;}
+
+                .footer-icon-aria{gap:20px ;
+                display: flex;
+                    justify-content: center;}
+
+                    .lisenc-aria{margin-top: 150px;}
+                 
