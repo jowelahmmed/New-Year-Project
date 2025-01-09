@@ -1,4 +1,5 @@
-section{margin-bottom: 120px;}
+section{margin-bottom: 120px;
+    margin-top: 120px}
 
 /* new year styles */
 
@@ -73,7 +74,7 @@ section{margin-bottom: 120px;}
                     font-weight: black;
                 color: #FFFFFF;}
 
-        .party-description{font-size: 18px;
+        .party-description{font-size: 20px;
             color: #FFFFFF;
         }    
 
@@ -116,4 +117,25 @@ section{margin-bottom: 120px;}
             font-size: 20px;
         font-weight: bold;}
 
-      
+      /* best-offer styles add */
+
+      .best-offer-continar{max-width: 1320px;
+                height: 463px;
+            margin: 0 auto;
+            display: flex;
+            margin-top: 120px;
+            gap: 70px;
+            align-content: center;
+            
+            align-items: center;}
+
+
+        
+           
+
+            .offer-description{color:#070211 ;
+            }
+            .year-sub-titel{color: #FF0000;
+                            font-size: 48px;
+                        font-weight: bold;}
+                      
