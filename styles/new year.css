@@ -54,15 +54,22 @@ section{margin-bottom: 120px;}
 
     .party-continar{max-width: 1320px;
                 height: 600px;     
-                background-image: url(/images/Vectorrr.png);}
+                background-image: url(/images/Vectorrr.png);
+            display: flex;
+           gap: 92px;
+        text-align: center;
+        align-items: center;
+            margin: 0 auto;}
 
-    /* .party-haf{display: flex;} */
+  
 
 
-    .party-section{margin: 111px 550px 313px     128px ;
-        padding-top: 111px;}
+    .party-section{margin:111px 550px 313px 128px  ;font-size: 64px;
+        padding-top: 111px;
+        text-align: left;}
 
-        .party-title{font-size: 64px;
+        .party-title{
+            
                     font-weight: black;
                 color: #FFFFFF;}
 
@@ -74,3 +81,39 @@ section{margin-bottom: 120px;}
         font-weight: bold;
     color: #FFFFFF;
         text-decoration: none;}
+
+        /* 2024 img */
+
+        /* .new-year{margin: 68px 138px 67px 862px ;} */
+
+
+        /* time section style */
+
+
+        .time-section{max-width: 1320px;
+                    height: 600px;
+                    margin: 0 auto;
+                    text-align: center;
+                    border-radius: 16px;
+                background-color:#e1626297;
+                align-content: center;
+                margin-top: 120px;
+                
+                }
+
+                .time-sub-titels{
+                    font-weight: 600;
+                    font-size: 32px;}
+
+            .time-color{color: #FF0000;}
+
+            .button-class{background-color: #FF0000;
+            color: #FFFFFF;
+            text-decoration: none;
+            border: none;
+            border-radius: 8px;
+            padding: 16px 32px;
+            font-size: 20px;
+        font-weight: bold;}
+
+      
