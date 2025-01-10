@@ -68,7 +68,8 @@
 
     .party-section{margin:111px 550px 313px 128px  ;font-size: 64px;
         padding-top: 111px;
-        text-align: left;}
+        text-align: left;
+           }
 
         .party-title{
             
@@ -130,12 +131,12 @@
             
             align-items: center;}
 
-           .circel-red{border-radius: 50%;
+            .circel-red img{border-radius:100%;
+                        border: 10px solid red;
                         padding: 10px;
-                        border: #FF0000;}
+            }
 
-            .img-titel .circel-red{border: 6px solid red;}
-
+            
         
            
 
