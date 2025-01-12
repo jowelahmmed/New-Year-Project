@@ -9,7 +9,7 @@
             text-align: center;}
 
 .section-titel{
-             background-image:url("/images/Banner-Image.png");
+             background-image:url("../images/Banner-Image.png");
             background-repeat: no-repeat;
             max-width: 1320px;
             background-size: cover;
@@ -54,26 +54,31 @@
 
     /* 2024 party section stlye */
 
-    .party-continar{max-width: 1320px;
-                height: 600px;     
-                background-image: url(/images/Vectorrr.png);
-            display: flex;
-           gap: 92px;
-        text-align: center;
-        align-items: center;
-            margin: 0 auto;}
+    .party-section{max-width: 1320px;
+                height: 700px;     
+                background-image: url(../images/Vectorrr.png);
+                margin: 0 auto;
+                background-repeat: no-repeat;
+                background-size:contain ;
+        
+           }
 
   
 
 
-    .party-section{margin:111px 550px 313px 128px  ;font-size: 64px;
-        padding-top: 111px;
-        text-align: left;
+    .party-continar{
+        text-align: center;
+        align-items: center;
+        gap: 92px;
+        display: flex;
            }
-
+           .party-sub-titel{ text-align: left;
+            font-size: 64px;
+                  
+                    padding-left: 100px;
+               }
         .party-title{
-            
-                    font-weight: black;
+             font-weight: black;
                 color: #FFFFFF;}
 
         .party-description{font-size: 20px;
@@ -87,7 +92,8 @@
 
         /* 2024 img */
 
-        /* .new-year{margin: 68px 138px 67px 862px ;} */
+        .new-year{padding-right:78px ;
+                padding-top:20px}
 
 
         /* time section style */
@@ -100,7 +106,7 @@
                     border-radius: 16px;
                 background-color:#e1626297;
                 align-content: center;
-                margin-top: 120px;
+                margin-top: 80px;
                 
                 }
 
@@ -166,7 +172,7 @@
                         height: 662.07px;
                     margin: 0 auto;
                 margin-top: 120px;
-            background-image: url(/images/Rectangle\ 2.png);
+            background-image: url(../images/Rectangle\ 2.png);
             background-repeat: no-repeat;
         background-size: contain;
          background-position: bottom;
@@ -231,5 +237,11 @@
                 display: flex;
                     justify-content: center;}
 
-                    .lisenc-aria{margin-top: 150px;}
-                 
+                    .lisenc-aria{margin-top: 50px;}
+
+                    .jowel img{max-width: 200px;
+                    height: 150px;
+                    margin: 0 auto;
+                align-items: center;}
+
+                
